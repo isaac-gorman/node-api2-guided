@@ -1,0 +1,11 @@
+https://www.google.com/search
+?
+q=ricky+boby
+&
+oq=ricky+boby
+&
+aqs=chrome..69i57j46j0l3j46j0.4105j0j7
+&
+sourceid=chrome
+&
+ie=UTF-8
